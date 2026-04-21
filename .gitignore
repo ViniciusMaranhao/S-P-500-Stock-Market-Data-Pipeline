@@ -1,4 +1,5 @@
-log_files/
+*.log
 __pycache__/
 *.pyc
-processed_data/
+agg_data.csv
+clean_data.csv
